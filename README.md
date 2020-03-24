@@ -1,0 +1,2 @@
+# josephbaca.test_site_Horiseon
+Horiseon has asked that we edit their website to be more accessible.  I have completed alt descriptions for the website and completed some additional edits to improve the code base for longer sustainability.
