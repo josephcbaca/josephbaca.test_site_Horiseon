@@ -51,19 +51,21 @@ p {
 }
 
 .hero {
-    clear: both;
     height: 800px;
     margin-bottom: 25px;
     color: #ffffff;
+    position: relative;
 }
 
 .heroimg {
-    max-width: 100%;
-    float: center;
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: inline-block;
     position: absolute;
-    margin-bottom: 0;
-    background-size: 100% 100%;
+    margin-bottom: 10;
 }
+
 
 .float-left, .float-right {
     color: #ffffff; 
